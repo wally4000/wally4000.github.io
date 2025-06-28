@@ -1,0 +1,113 @@
+==>Initialized DebugConsole
+Path set for:"rom.db"to:"/home/ben/daedalus/DaedalusX64/rom.db"
+RomDB initialised with 0 files and 0 details.
+==>Initialized ROM Database
+Path set for:"roms.ini"to:"/home/ben/daedalus/DaedalusX64/roms.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/roms.ini"
+==>Initialized ROM Settings
+==>Initialized InputManager
+==>Initialized Language
+Path set for:"n64.psh"to:"/home/ben/daedalus/DaedalusX64/n64.psh"
+==>Initialized GraphicsContext
+Path set for:"Preferences.ini"to:"/home/ben/daedalus/DaedalusX64/Preferences.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/Preferences.ini"
+==>Initialized Preference
+Initialising 8Mb main memory
+==>Initialized Memory
+==>Initialized Controller
+==>Initialized RomBuffer
+==>Open RomBuffer
+Allocating Memory
+Opened [1;36mRoms/007 - The World Is Not Enough (USA) (Beta).z64[0m
+
+==>Open Settings
+Reading rom image: [1;36mRoms/007 - The World Is Not Enough (USA) (Beta).z64[0m
+ROM ID[374F]
+Header:          0x80371240
+Clockrate:       0x0f000000
+BootAddr:        0x80000400
+Release:         0x4b140000
+CRC1:            0x66092ea9
+CRC2:            0x12391c34
+Unknown0:        0x00000000
+Unknown1:        0x00000000
+ImageName:       'TWINE               '
+Unknown2:        0x00000000
+Unknown3:        0x0000
+Unknown4:        0x00
+Manufacturer:    0x4e
+CartID:          0x374f
+CountryID:       0x45 - 'E'
+Unknown5:        0x00
+[1;32m[0m
+This game has been certified as [1;32m[0m ()
+SaveType: [1;32mUnknown[0m
+ApplyPatches: [1;32mon[0m
+Check Texture Hash Freq: [1;32m1[0m
+SpeedSync: [1;32m1[0m
+DynaRec: [1;32mon[0m
+Cheats: [1;32moff[0m
+==>Open InputManager
+==>Open Memory
+Reseting Memory - 8 MB
+Initialising 8Mb main memory
+==>Open Audio
+==>Open Graphics
+Initialising Graphics Plugin [1;36mGL[0m
+==>Open FramerateLimiter
+==>Open CPU
+Resetting CPU
+Clearing fragment cache of 0 fragments
+==>Open ROM
+[1;35mRom uses CIC-6102[0m
+==>Open Controller
+==>Open Save
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+Loading MemPack from [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/007 - The World Is Not Enough (USA) (Beta).mpk[0m
+[1;35mWas previously clobbering CAUSE REGISTER[0m
+Count set - setting int
+Allocated 1MB of storage for dynarec buffer
+Allocated 1MB of storage for dynarec second buffer
+Controller found
+[1;32mSI Interrupt control value: 0x08[0m
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 10 fragments
+Thread accessing Cop1, throwing COP1 unusuable exception
+Audio device not initialized
+Dynarec: 100 fragments, 6KB (i:o 5:65 = 1168%)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Dynarec: 200 fragments, 12KB (i:o 10:125 = 1203%)
+Dynarec: 300 fragments, 18KB (i:o 13:171 = 1224%)
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/007 - The World Is Not Enough (USA) (Beta).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Dynarec: 400 fragments, 25KB (i:o 18:230 = 1223%)
+Dynarec: 500 fragments, 31KB (i:o 23:283 = 1198%)
+Dynarec: 600 fragments, 37KB (i:o 29:351 = 1189%)
+Dynarec: 700 fragments, 43KB (i:o 36:421 = 1169%)
+Dynarec: 800 fragments, 50KB (i:o 43:491 = 1138%)
+Detected Ucode is: [1;35m Ucode 2, 0x627f8f6a, "RSP Gfx ucode F3DEX       fifo 2.08  Yoshitaka Yasumoto 1999 Nintendo.", ""[0m
+Dynarec: 900 fragments, 56KB (i:o 51:578 = 1117%)
+Dynarec: 1000 fragments, 62KB (i:o 62:684 = 1096%)
+Dynarec: 1100 fragments, 68KB (i:o 68:759 = 1101%)
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/007 - The World Is Not Enough (USA) (Beta).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Dynarec: 1200 fragments, 75KB (i:o 77:844 = 1094%)
+Dynarec: 1300 fragments, 81KB (i:o 85:930 = 1088%)
+Allocated 2MB of storage for dynarec buffer
+Dynarec: 1400 fragments, 87KB (i:o 97:1049 = 1076%)
+Controller found
+Dynarec: 1500 fragments, 93KB (i:o 103:1123 = 1081%)
+Dynarec: 1600 fragments, 100KB (i:o 107:1167 = 1086%)
+Dynarec: 1700 fragments, 106KB (i:o 113:1230 = 1084%)
+Dynarec: 1800 fragments, 112KB (i:o 122:1313 = 1071%)
+Dynarec: 1900 fragments, 118KB (i:o 128:1382 = 1072%)
+Dynarec: 2000 fragments, 125KB (i:o 135:1453 = 1075%)
+Dynarec: 2100 fragments, 131KB (i:o 142:1537 = 1076%)
+Dynarec: 2200 fragments, 137KB (i:o 152:1629 = 1066%)
+Dynarec: 2300 fragments, 143KB (i:o 162:1723 = 1058%)
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/007 - The World Is Not Enough (USA) (Beta).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.

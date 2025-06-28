@@ -1,0 +1,135 @@
+==>Initialized DebugConsole
+Path set for:"rom.db"to:"/home/ben/daedalus/DaedalusX64/rom.db"
+RomDB initialised with 0 files and 0 details.
+==>Initialized ROM Database
+Path set for:"roms.ini"to:"/home/ben/daedalus/DaedalusX64/roms.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/roms.ini"
+==>Initialized ROM Settings
+==>Initialized InputManager
+==>Initialized Language
+Path set for:"n64.psh"to:"/home/ben/daedalus/DaedalusX64/n64.psh"
+==>Initialized GraphicsContext
+Path set for:"Preferences.ini"to:"/home/ben/daedalus/DaedalusX64/Preferences.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/Preferences.ini"
+==>Initialized Preference
+Initialising 8Mb main memory
+==>Initialized Memory
+==>Initialized Controller
+==>Initialized RomBuffer
+==>Open RomBuffer
+Allocating Memory
+Opened [1;36mRoms/Army Men - Sarge's Heroes (USA).z64[0m
+
+==>Open Settings
+Reading rom image: [1;36mRoms/Army Men - Sarge's Heroes (USA).z64[0m
+ROM ID[4D41]
+Header:          0x80371240
+Clockrate:       0x0f000000
+BootAddr:        0x80000400
+Release:         0x44140000
+CRC1:            0x57062c86
+CRC2:            0x6d89fd8d
+Unknown0:        0x00000000
+Unknown1:        0x00000000
+ImageName:       'Army Men Sarge      '
+Unknown2:        0x00000000
+Unknown3:        0x0000
+Unknown4:        0x00
+Manufacturer:    0x4e
+CartID:          0x4d41
+CountryID:       0x45 - 'E'
+Unknown5:        0x00
+[1;32mArmy Men - Sarge's Heroes[0m
+This game has been certified as [1;32m[0m ()
+SaveType: [1;32mUnknown[0m
+ApplyPatches: [1;32mon[0m
+Check Texture Hash Freq: [1;32m1[0m
+SpeedSync: [1;32m1[0m
+DynaRec: [1;32mon[0m
+Cheats: [1;32moff[0m
+==>Open InputManager
+==>Open Memory
+Reseting Memory - 8 MB
+Initialising 8Mb main memory
+==>Open Audio
+==>Open Graphics
+Initialising Graphics Plugin [1;36mGL[0m
+==>Open FramerateLimiter
+==>Open CPU
+Resetting CPU
+Clearing fragment cache of 0 fragments
+==>Open ROM
+[1;35mRom uses CIC-6102[0m
+==>Open Controller
+==>Open Save
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+MemPack File [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Army Men - Sarge's Heroes (USA).mpk[0m cannot be found.
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+[1;35mWas previously clobbering CAUSE REGISTER[0m
+Count set - setting int
+Allocated 1MB of storage for dynarec buffer
+Allocated 1MB of storage for dynarec second buffer
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Army Men - Sarge's Heroes (USA).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Controller found
+[1;32mSI Interrupt control value: 0x08[0m
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 11 fragments
+Illegal Memory Access: Tried to Write To 0xa0800000 (PC: 0x80089094)
+Illegal Memory Access: Tried to Write To 0xa08ffffc (PC: 0x800890a0)
+Illegal Memory Access - Tried to Read From 0xa0800000 (PC: 0x800890a4)
+Dynarec: 100 fragments, 6KB (i:o 5:60 = 1212%)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Dynarec: 200 fragments, 12KB (i:o 10:123 = 1194%)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Audio device not initialized
+Dynarec: 300 fragments, 18KB (i:o 17:200 = 1145%)
+Audio device not initialized
+Audio device not initialized
+Audio device not initialized
+Audio device not initialized
+Dynarec: 400 fragments, 25KB (i:o 22:260 = 1158%)
+Detected Ucode is: [1;35m Ucode 2, 0xc15a4329, "RSP Gfx ucode F3DEX       fifo 2.07  Yoshitaka Yasumoto 1998 Nintendo.", "Army Men - Sarge's Heroes"[0m
+Dynarec: 500 fragments, 31KB (i:o 30:355 = 1159%)
+Dynarec: 600 fragments, 37KB (i:o 37:433 = 1144%)
+Dynarec: 700 fragments, 43KB (i:o 45:513 = 1131%)
+Dynarec: 800 fragments, 50KB (i:o 52:586 = 1125%)
+Dynarec: 900 fragments, 56KB (i:o 61:685 = 1109%)
+Dynarec: 1000 fragments, 62KB (i:o 67:743 = 1109%)
+Dynarec: 1100 fragments, 68KB (i:o 75:826 = 1091%)
+Dynarec: 1200 fragments, 75KB (i:o 83:902 = 1079%)
+Dynarec: 1300 fragments, 81KB (i:o 90:972 = 1072%)
+Allocated 2MB of storage for dynarec buffer
+Dynarec: 1400 fragments, 87KB (i:o 97:1033 = 1059%)
+Dynarec: 1500 fragments, 93KB (i:o 103:1098 = 1058%)
+Dynarec: 1600 fragments, 100KB (i:o 115:1213 = 1047%)
+Dynarec: 1700 fragments, 106KB (i:o 129:1331 = 1028%)
+Dynarec: 1800 fragments, 112KB (i:o 146:1489 = 1020%)
+Dynarec: 1900 fragments, 118KB (i:o 162:1614 = 995%)
+Dynarec: 2000 fragments, 125KB (i:o 173:1722 = 990%)
+Dynarec: 2100 fragments, 131KB (i:o 185:1832 = 988%)
+Dynarec: 2200 fragments, 137KB (i:o 197:1945 = 983%)
+Allocated 3MB of storage for dynarec buffer
+Dynarec: 2300 fragments, 143KB (i:o 210:2057 = 978%)
+Dynarec: 2400 fragments, 150KB (i:o 218:2138 = 979%)
+Dynarec: 2500 fragments, 156KB (i:o 227:2225 = 978%)
+Dynarec: 2600 fragments, 162KB (i:o 235:2305 = 979%)
+Dynarec: 2700 fragments, 168KB (i:o 243:2387 = 980%)
+Controller found
+Dynarec: 2800 fragments, 175KB (i:o 249:2448 = 982%)
+Dynarec: 2900 fragments, 181KB (i:o 255:2519 = 985%)
+Write to 801f9870 (11776 bytes) overlaps fragment cache entries
+Clearing fragment cache of 2909 fragments
+Dynarec: 100 fragments, 6KB (i:o 8:89 = 1073%)
+Dynarec: 200 fragments, 12KB (i:o 15:165 = 1072%)
+Dynarec: 300 fragments, 18KB (i:o 22:241 = 1066%)
+Dynarec: 400 fragments, 25KB (i:o 29:311 = 1070%)
+Dynarec: 500 fragments, 31KB (i:o 36:388 = 1079%)
+Dynarec: 600 fragments, 37KB (i:o 42:455 = 1078%)
+Dynarec: 700 fragments, 43KB (i:o 49:527 = 1064%)
+Controller found

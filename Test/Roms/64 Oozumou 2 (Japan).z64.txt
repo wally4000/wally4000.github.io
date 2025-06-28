@@ -1,0 +1,115 @@
+==>Initialized DebugConsole
+Path set for:"rom.db"to:"/home/ben/daedalus/DaedalusX64/rom.db"
+RomDB initialised with 0 files and 0 details.
+==>Initialized ROM Database
+Path set for:"roms.ini"to:"/home/ben/daedalus/DaedalusX64/roms.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/roms.ini"
+==>Initialized ROM Settings
+==>Initialized InputManager
+==>Initialized Language
+Path set for:"n64.psh"to:"/home/ben/daedalus/DaedalusX64/n64.psh"
+==>Initialized GraphicsContext
+Path set for:"Preferences.ini"to:"/home/ben/daedalus/DaedalusX64/Preferences.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/Preferences.ini"
+==>Initialized Preference
+Initialising 8Mb main memory
+==>Initialized Memory
+==>Initialized Controller
+==>Initialized RomBuffer
+==>Open RomBuffer
+Allocating Memory
+Opened [1;36mRoms/64 Oozumou 2 (Japan).z64[0m
+
+==>Open Settings
+Reading rom image: [1;36mRoms/64 Oozumou 2 (Japan).z64[0m
+ROM ID[324F]
+Header:          0x80371240
+Clockrate:       0x0f000000
+BootAddr:        0x80080400
+Release:         0x49140000
+CRC1:            0x168bc185
+CRC2:            0xaf2296df
+Unknown0:        0x00000000
+Unknown1:        0x00000000
+ImageName:       '64 µµ½ÞÓ³ 2         '
+Unknown2:        0x00000000
+Unknown3:        0x0000
+Unknown4:        0x00
+Manufacturer:    0x4e
+CartID:          0x324f
+CountryID:       0x4a - 'J'
+Unknown5:        0x00
+[1;32m64 Oozumou 2[0m
+This game has been certified as [1;32m[0m ()
+SaveType: [1;32mUnknown[0m
+ApplyPatches: [1;32mon[0m
+Check Texture Hash Freq: [1;32m1[0m
+SpeedSync: [1;32m1[0m
+DynaRec: [1;32mon[0m
+Cheats: [1;32moff[0m
+==>Open InputManager
+==>Open Memory
+Reseting Memory - 8 MB
+Initialising 8Mb main memory
+==>Open Audio
+==>Open Graphics
+Initialising Graphics Plugin [1;36mGL[0m
+==>Open FramerateLimiter
+==>Open CPU
+Resetting CPU
+Clearing fragment cache of 0 fragments
+==>Open ROM
+[1;35mRom uses CIC-6102[0m
+==>Open Controller
+==>Open Save
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+Loading MemPack from [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/64 Oozumou 2 (Japan).mpk[0m
+[1;35mWas previously clobbering CAUSE REGISTER[0m
+Count set - setting int
+Allocated 1MB of storage for dynarec buffer
+Allocated 1MB of storage for dynarec second buffer
+Controller found
+[1;32mSI Interrupt control value: 0x08[0m
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 10 fragments
+Illegal Memory Access - Tried to Read From 0xbff00000 (PC: 0x800ab434)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Detected Ucode is: [1;35m Ucode 1, 0x492ee469, "RSP Gfx ucode F3DEX         1.23 Yoshitaka Yasumoto Nintendo.", "64 Oozumou 2"[0m
+Dynarec: 100 fragments, 6KB (i:o 5:65 = 1180%)
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 142 fragments
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 2 fragments
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 1 fragments
+Thread accessing Cop1, throwing COP1 unusuable exception
+Thread accessing Cop1, throwing COP1 unusuable exception
+Audio device not initialized
+Dynarec: 100 fragments, 6KB (i:o 5:63 = 1204%)
+Dynarec: 200 fragments, 12KB (i:o 11:128 = 1152%)
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/64 Oozumou 2 (Japan).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Dynarec: 300 fragments, 18KB (i:o 20:215 = 1038%)
+Dynarec: 400 fragments, 25KB (i:o 26:276 = 1059%)
+Dynarec: 500 fragments, 31KB (i:o 38:385 = 993%)
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/64 Oozumou 2 (Japan).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Dynarec: 600 fragments, 37KB (i:o 45:457 = 994%)
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 658 fragments
+Dynarec: 100 fragments, 6KB (i:o 6:73 = 1099%)
+Dynarec: 200 fragments, 12KB (i:o 11:130 = 1103%)
+Dynarec: 300 fragments, 18KB (i:o 16:188 = 1126%)
+Dynarec: 400 fragments, 25KB (i:o 23:257 = 1083%)
+Dynarec: 500 fragments, 31KB (i:o 33:342 = 1017%)
+Dynarec: 600 fragments, 37KB (i:o 43:432 = 999%)
+Dynarec: 700 fragments, 43KB (i:o 52:517 = 988%)
+Dynarec: 800 fragments, 50KB (i:o 59:593 = 990%)
+Controller found

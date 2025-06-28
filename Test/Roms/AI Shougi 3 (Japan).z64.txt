@@ -1,0 +1,1389 @@
+==>Initialized DebugConsole
+Path set for:"rom.db"to:"/home/ben/daedalus/DaedalusX64/rom.db"
+RomDB initialised with 0 files and 0 details.
+==>Initialized ROM Database
+Path set for:"roms.ini"to:"/home/ben/daedalus/DaedalusX64/roms.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/roms.ini"
+==>Initialized ROM Settings
+==>Initialized InputManager
+==>Initialized Language
+Path set for:"n64.psh"to:"/home/ben/daedalus/DaedalusX64/n64.psh"
+==>Initialized GraphicsContext
+Path set for:"Preferences.ini"to:"/home/ben/daedalus/DaedalusX64/Preferences.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/Preferences.ini"
+==>Initialized Preference
+Initialising 8Mb main memory
+==>Initialized Memory
+==>Initialized Controller
+==>Initialized RomBuffer
+==>Open RomBuffer
+Allocating Memory
+Opened [1;36mRoms/AI Shougi 3 (Japan).z64[0m
+
+==>Open Settings
+Reading rom image: [1;36mRoms/AI Shougi 3 (Japan).z64[0m
+ROM ID[3353]
+Header:          0x80371240
+Clockrate:       0x0f000000
+BootAddr:        0x80025c00
+Release:         0x49140000
+CRC1:            0xa682c18c
+CRC2:            0xb0cad0c2
+Unknown0:        0x00000000
+Unknown1:        0x00000000
+ImageName:       'AI¼®³·Þ3            '
+Unknown2:        0x00000000
+Unknown3:        0x0000
+Unknown4:        0x00
+Manufacturer:    0x4e
+CartID:          0x3353
+CountryID:       0x4a - 'J'
+Unknown5:        0x00
+[1;32mAI Shougi 3[0m
+This game has been certified as [1;32m[0m ()
+SaveType: [1;32mEeprom4k[0m
+ApplyPatches: [1;32mon[0m
+Check Texture Hash Freq: [1;32m1[0m
+SpeedSync: [1;32m1[0m
+DynaRec: [1;32mon[0m
+Cheats: [1;32moff[0m
+==>Open InputManager
+==>Open Memory
+Reseting Memory - 8 MB
+Initialising 8Mb main memory
+==>Open Audio
+==>Open Graphics
+Initialising Graphics Plugin [1;36mGL[0m
+==>Open FramerateLimiter
+==>Open CPU
+Resetting CPU
+Clearing fragment cache of 0 fragments
+==>Open ROM
+[1;35mRom uses CIC-6102[0m
+==>Open Controller
+Initialising EEPROM to [1;35m512[0m bytes
+==>Open Save
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+Save File [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/AI Shougi 3 (Japan).sav[0m cannot be found.
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+MemPack File [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/AI Shougi 3 (Japan).mpk[0m cannot be found.
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+[1;35mWas previously clobbering CAUSE REGISTER[0m
+Count set - setting int
+Allocated 1MB of storage for dynarec buffer
+Allocated 1MB of storage for dynarec second buffer
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/AI Shougi 3 (Japan).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Controller found
+[1;32mSI Interrupt control value: 0x08[0m
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 10 fragments
+Illegal Memory Access - Tried to Read From 0xbff00000 (PC: 0x80057cc8)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Thread accessing Cop1, throwing COP1 unusuable exception
+Detected Ucode is: [1;35m Ucode 2, 0x0d9b2093, "RSP Gfx ucode F3DEX       fifo 2.04  Yoshitaka Yasumoto 1998 Nintendo.", "AI Shougi 3"[0m
+Dynarec: 100 fragments, 6KB (i:o 6:74 = 1152%)
+Audio device not initialized
+Dynarec: 200 fragments, 12KB (i:o 13:150 = 1107%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 300 fragments, 18KB (i:o 18:207 = 1124%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 400 fragments, 25KB (i:o 23:270 = 1134%)
+Dynarec: 500 fragments, 31KB (i:o 29:338 = 1130%)
+Dynarec: 600 fragments, 37KB (i:o 39:434 = 1103%)
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/AI Shougi 3 (Japan).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/AI Shougi 3 (Japan).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Dynarec: 700 fragments, 43KB (i:o 45:504 = 1103%)
+Write to 80135fe0 (32 bytes) overlaps fragment cache entries
+Write to 80136000 (32 bytes) overlaps fragment cache entries
+Write to 80136020 (32 bytes) overlaps fragment cache entries
+Write to 80136040 (32 bytes) overlaps fragment cache entries
+Write to 80136060 (32 bytes) overlaps fragment cache entries
+Write to 80136080 (32 bytes) overlaps fragment cache entries
+Write to 801360a0 (32 bytes) overlaps fragment cache entries
+Write to 801360c0 (32 bytes) overlaps fragment cache entries
+Write to 801360e0 (32 bytes) overlaps fragment cache entries
+Write to 80136100 (32 bytes) overlaps fragment cache entries
+Write to 80136120 (32 bytes) overlaps fragment cache entries
+Write to 80136140 (32 bytes) overlaps fragment cache entries
+Write to 80136160 (32 bytes) overlaps fragment cache entries
+Write to 80136180 (32 bytes) overlaps fragment cache entries
+Write to 801361a0 (32 bytes) overlaps fragment cache entries
+Write to 801361c0 (32 bytes) overlaps fragment cache entries
+Write to 801361e0 (32 bytes) overlaps fragment cache entries
+Write to 80136200 (32 bytes) overlaps fragment cache entries
+Write to 80136220 (32 bytes) overlaps fragment cache entries
+Write to 80136240 (32 bytes) overlaps fragment cache entries
+Write to 80136260 (32 bytes) overlaps fragment cache entries
+Write to 80136280 (32 bytes) overlaps fragment cache entries
+Write to 801362a0 (32 bytes) overlaps fragment cache entries
+Write to 801362c0 (32 bytes) overlaps fragment cache entries
+Write to 801362e0 (32 bytes) overlaps fragment cache entries
+Write to 80136300 (32 bytes) overlaps fragment cache entries
+Write to 80136320 (32 bytes) overlaps fragment cache entries
+Write to 80136340 (32 bytes) overlaps fragment cache entries
+Write to 80136360 (32 bytes) overlaps fragment cache entries
+Write to 80136380 (32 bytes) overlaps fragment cache entries
+Write to 801363a0 (32 bytes) overlaps fragment cache entries
+Write to 801363c0 (32 bytes) overlaps fragment cache entries
+Write to 801363e0 (32 bytes) overlaps fragment cache entries
+Write to 80136400 (32 bytes) overlaps fragment cache entries
+Write to 80136420 (32 bytes) overlaps fragment cache entries
+Write to 80136440 (32 bytes) overlaps fragment cache entries
+Write to 80136460 (32 bytes) overlaps fragment cache entries
+Write to 80136480 (32 bytes) overlaps fragment cache entries
+Write to 801364a0 (32 bytes) overlaps fragment cache entries
+Write to 801364c0 (32 bytes) overlaps fragment cache entries
+Write to 801364e0 (32 bytes) overlaps fragment cache entries
+Write to 80136500 (32 bytes) overlaps fragment cache entries
+Write to 80136520 (32 bytes) overlaps fragment cache entries
+Write to 80136540 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 710 fragments
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 100 fragments, 6KB (i:o 7:80 = 1061%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 200 fragments, 12KB (i:o 13:144 = 1087%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 300 fragments, 18KB (i:o 21:227 = 1083%)
+Dynarec: 400 fragments, 25KB (i:o 30:322 = 1065%)
+Dynarec: 500 fragments, 31KB (i:o 36:389 = 1065%)
+Write to 80134680 (32 bytes) overlaps fragment cache entries
+Write to 801346a0 (32 bytes) overlaps fragment cache entries
+Write to 801346c0 (32 bytes) overlaps fragment cache entries
+Write to 801346e0 (32 bytes) overlaps fragment cache entries
+Write to 80134700 (32 bytes) overlaps fragment cache entries
+Write to 80134720 (32 bytes) overlaps fragment cache entries
+Write to 80134740 (32 bytes) overlaps fragment cache entries
+Write to 80134760 (32 bytes) overlaps fragment cache entries
+Write to 80134780 (32 bytes) overlaps fragment cache entries
+Write to 801347a0 (32 bytes) overlaps fragment cache entries
+Write to 801347c0 (32 bytes) overlaps fragment cache entries
+Write to 801347e0 (32 bytes) overlaps fragment cache entries
+Write to 80134800 (32 bytes) overlaps fragment cache entries
+Write to 80134820 (32 bytes) overlaps fragment cache entries
+Write to 80134840 (32 bytes) overlaps fragment cache entries
+Write to 80134860 (32 bytes) overlaps fragment cache entries
+Write to 80134880 (32 bytes) overlaps fragment cache entries
+Write to 801348a0 (32 bytes) overlaps fragment cache entries
+Write to 801348c0 (32 bytes) overlaps fragment cache entries
+Write to 801348e0 (32 bytes) overlaps fragment cache entries
+Write to 80134900 (32 bytes) overlaps fragment cache entries
+Write to 80134920 (32 bytes) overlaps fragment cache entries
+Write to 80134940 (32 bytes) overlaps fragment cache entries
+Write to 80134960 (32 bytes) overlaps fragment cache entries
+Write to 80134980 (32 bytes) overlaps fragment cache entries
+Write to 801349a0 (32 bytes) overlaps fragment cache entries
+Write to 801349c0 (32 bytes) overlaps fragment cache entries
+Write to 801349e0 (32 bytes) overlaps fragment cache entries
+Write to 80134a00 (32 bytes) overlaps fragment cache entries
+Write to 80134a20 (32 bytes) overlaps fragment cache entries
+Write to 80134a40 (32 bytes) overlaps fragment cache entries
+Write to 80134a60 (32 bytes) overlaps fragment cache entries
+Write to 80134a80 (32 bytes) overlaps fragment cache entries
+Write to 80134aa0 (32 bytes) overlaps fragment cache entries
+Write to 80134ac0 (32 bytes) overlaps fragment cache entries
+Write to 80134ae0 (32 bytes) overlaps fragment cache entries
+Write to 80134b00 (32 bytes) overlaps fragment cache entries
+Write to 80134b20 (32 bytes) overlaps fragment cache entries
+Write to 80134b40 (32 bytes) overlaps fragment cache entries
+Write to 80134b60 (32 bytes) overlaps fragment cache entries
+Write to 80134b80 (32 bytes) overlaps fragment cache entries
+Write to 80134ba0 (32 bytes) overlaps fragment cache entries
+Write to 80134bc0 (32 bytes) overlaps fragment cache entries
+Write to 80134be0 (32 bytes) overlaps fragment cache entries
+Write to 80134c00 (32 bytes) overlaps fragment cache entries
+Write to 80134c20 (32 bytes) overlaps fragment cache entries
+Write to 80134c40 (32 bytes) overlaps fragment cache entries
+Write to 80134c60 (32 bytes) overlaps fragment cache entries
+Write to 80134c80 (32 bytes) overlaps fragment cache entries
+Write to 80134ca0 (32 bytes) overlaps fragment cache entries
+Write to 80134cc0 (32 bytes) overlaps fragment cache entries
+Write to 80134ce0 (32 bytes) overlaps fragment cache entries
+Write to 80134d00 (32 bytes) overlaps fragment cache entries
+Write to 80134d20 (32 bytes) overlaps fragment cache entries
+Write to 80134d40 (32 bytes) overlaps fragment cache entries
+Write to 80134d60 (32 bytes) overlaps fragment cache entries
+Write to 80134d80 (32 bytes) overlaps fragment cache entries
+Write to 80134da0 (32 bytes) overlaps fragment cache entries
+Write to 80134dc0 (32 bytes) overlaps fragment cache entries
+Write to 80134de0 (32 bytes) overlaps fragment cache entries
+Write to 80134e00 (32 bytes) overlaps fragment cache entries
+Write to 80134e20 (32 bytes) overlaps fragment cache entries
+Write to 80134e40 (32 bytes) overlaps fragment cache entries
+Write to 80134e60 (32 bytes) overlaps fragment cache entries
+Write to 80134e80 (32 bytes) overlaps fragment cache entries
+Write to 80134ea0 (32 bytes) overlaps fragment cache entries
+Write to 80134ec0 (32 bytes) overlaps fragment cache entries
+Write to 80134ee0 (32 bytes) overlaps fragment cache entries
+Write to 80134f00 (32 bytes) overlaps fragment cache entries
+Write to 80134f20 (32 bytes) overlaps fragment cache entries
+Write to 80134f40 (32 bytes) overlaps fragment cache entries
+Write to 80134f60 (32 bytes) overlaps fragment cache entries
+Write to 80134f80 (32 bytes) overlaps fragment cache entries
+Write to 80134fa0 (32 bytes) overlaps fragment cache entries
+Write to 80134fc0 (32 bytes) overlaps fragment cache entries
+Write to 80134fe0 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 502 fragments
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 100 fragments, 6KB (i:o 7:80 = 1058%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 200 fragments, 12KB (i:o 12:140 = 1084%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 300 fragments, 18KB (i:o 18:208 = 1105%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 400 fragments, 25KB (i:o 28:303 = 1055%)
+Dynarec: 500 fragments, 31KB (i:o 34:367 = 1057%)
+Dynarec: 600 fragments, 37KB (i:o 45:460 = 1023%)
+Dynarec: 700 fragments, 43KB (i:o 51:522 = 1014%)
+Controller found
+Dynarec: 800 fragments, 50KB (i:o 59:601 = 1004%)
+Write to 80134680 (32 bytes) overlaps fragment cache entries
+Write to 801346a0 (32 bytes) overlaps fragment cache entries
+Write to 801346c0 (32 bytes) overlaps fragment cache entries
+Write to 801346e0 (32 bytes) overlaps fragment cache entries
+Write to 80134700 (32 bytes) overlaps fragment cache entries
+Write to 80134720 (32 bytes) overlaps fragment cache entries
+Write to 80134740 (32 bytes) overlaps fragment cache entries
+Write to 80134760 (32 bytes) overlaps fragment cache entries
+Write to 80134780 (32 bytes) overlaps fragment cache entries
+Write to 801347a0 (32 bytes) overlaps fragment cache entries
+Write to 801347c0 (32 bytes) overlaps fragment cache entries
+Write to 801347e0 (32 bytes) overlaps fragment cache entries
+Write to 80134800 (32 bytes) overlaps fragment cache entries
+Write to 80134820 (32 bytes) overlaps fragment cache entries
+Write to 80134840 (32 bytes) overlaps fragment cache entries
+Write to 80134860 (32 bytes) overlaps fragment cache entries
+Write to 80134880 (32 bytes) overlaps fragment cache entries
+Write to 801348a0 (32 bytes) overlaps fragment cache entries
+Write to 801348c0 (32 bytes) overlaps fragment cache entries
+Write to 801348e0 (32 bytes) overlaps fragment cache entries
+Write to 80134900 (32 bytes) overlaps fragment cache entries
+Write to 80134920 (32 bytes) overlaps fragment cache entries
+Write to 80134940 (32 bytes) overlaps fragment cache entries
+Write to 80134960 (32 bytes) overlaps fragment cache entries
+Write to 80134980 (32 bytes) overlaps fragment cache entries
+Write to 801349a0 (32 bytes) overlaps fragment cache entries
+Write to 801349c0 (32 bytes) overlaps fragment cache entries
+Write to 801349e0 (32 bytes) overlaps fragment cache entries
+Write to 80134a00 (32 bytes) overlaps fragment cache entries
+Write to 80134a20 (32 bytes) overlaps fragment cache entries
+Write to 80134a40 (32 bytes) overlaps fragment cache entries
+Write to 80134a60 (32 bytes) overlaps fragment cache entries
+Write to 80134a80 (32 bytes) overlaps fragment cache entries
+Write to 80134aa0 (32 bytes) overlaps fragment cache entries
+Write to 80134ac0 (32 bytes) overlaps fragment cache entries
+Write to 80134ae0 (32 bytes) overlaps fragment cache entries
+Write to 80134b00 (32 bytes) overlaps fragment cache entries
+Write to 80134b20 (32 bytes) overlaps fragment cache entries
+Write to 80134b40 (32 bytes) overlaps fragment cache entries
+Write to 80134b60 (32 bytes) overlaps fragment cache entries
+Write to 80134b80 (32 bytes) overlaps fragment cache entries
+Write to 80134ba0 (32 bytes) overlaps fragment cache entries
+Write to 80134bc0 (32 bytes) overlaps fragment cache entries
+Write to 80134be0 (32 bytes) overlaps fragment cache entries
+Write to 80134c00 (32 bytes) overlaps fragment cache entries
+Write to 80134c20 (32 bytes) overlaps fragment cache entries
+Write to 80134c40 (32 bytes) overlaps fragment cache entries
+Write to 80134c60 (32 bytes) overlaps fragment cache entries
+Write to 80134c80 (32 bytes) overlaps fragment cache entries
+Write to 80134ca0 (32 bytes) overlaps fragment cache entries
+Write to 80134cc0 (32 bytes) overlaps fragment cache entries
+Write to 80134ce0 (32 bytes) overlaps fragment cache entries
+Write to 80134d00 (32 bytes) overlaps fragment cache entries
+Write to 80134d20 (32 bytes) overlaps fragment cache entries
+Write to 80134d40 (32 bytes) overlaps fragment cache entries
+Write to 80134d60 (32 bytes) overlaps fragment cache entries
+Write to 80134d80 (32 bytes) overlaps fragment cache entries
+Write to 80134da0 (32 bytes) overlaps fragment cache entries
+Write to 80134dc0 (32 bytes) overlaps fragment cache entries
+Write to 80134de0 (32 bytes) overlaps fragment cache entries
+Write to 80134e00 (32 bytes) overlaps fragment cache entries
+Write to 80134e20 (32 bytes) overlaps fragment cache entries
+Write to 80134e40 (32 bytes) overlaps fragment cache entries
+Write to 80134e60 (32 bytes) overlaps fragment cache entries
+Write to 80134e80 (32 bytes) overlaps fragment cache entries
+Write to 80134ea0 (32 bytes) overlaps fragment cache entries
+Write to 80134ec0 (32 bytes) overlaps fragment cache entries
+Write to 80134ee0 (32 bytes) overlaps fragment cache entries
+Write to 80134f00 (32 bytes) overlaps fragment cache entries
+Write to 80134f20 (32 bytes) overlaps fragment cache entries
+Write to 80134f40 (32 bytes) overlaps fragment cache entries
+Write to 80134f60 (32 bytes) overlaps fragment cache entries
+Write to 80134f80 (32 bytes) overlaps fragment cache entries
+Write to 80134fa0 (32 bytes) overlaps fragment cache entries
+Write to 80134fc0 (32 bytes) overlaps fragment cache entries
+Write to 80134fe0 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 867 fragments
+PI DMA odd length
+PI DMA odd length
+Dynarec: 100 fragments, 6KB (i:o 7:81 = 1055%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 200 fragments, 12KB (i:o 12:140 = 1085%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 300 fragments, 18KB (i:o 18:208 = 1106%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Detected Ucode is: [1;35m Ucode 4, 0xa6628ac9, "RSP Gfx ucode S2DEX       fifo 2.04  Yoshitaka Yasumoto 1998 Nintendo.", "AI Shougi 3"[0m
+Dynarec: 400 fragments, 25KB (i:o 27:297 = 1089%)
+Controller found
+Dynarec: 500 fragments, 31KB (i:o 34:378 = 1084%)
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 504 fragments
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 52 fragments
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 2 fragments
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 2 fragments
+Dynarec: 100 fragments, 6KB (i:o 7:82 = 1049%)
+Dynarec: 200 fragments, 12KB (i:o 14:159 = 1092%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 300 fragments, 18KB (i:o 20:222 = 1111%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 400 fragments, 25KB (i:o 25:282 = 1110%)
+Dynarec: 500 fragments, 31KB (i:o 42:437 = 1041%)
+Dynarec: 600 fragments, 37KB (i:o 51:529 = 1032%)
+Dynarec: 700 fragments, 43KB (i:o 62:640 = 1017%)
+Dynarec: 800 fragments, 50KB (i:o 70:717 = 1019%)
+Dynarec: 900 fragments, 56KB (i:o 80:806 = 1002%)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Dynarec: 1000 fragments, 62KB (i:o 86:873 = 1007%)
+Dynarec: 1100 fragments, 68KB (i:o 97:970 = 998%)
+Allocated 2MB of storage for dynarec buffer
+Dynarec: 1200 fragments, 75KB (i:o 104:1042 = 995%)
+Dynarec: 1300 fragments, 81KB (i:o 114:1141 = 996%)
+Dynarec: 1400 fragments, 87KB (i:o 123:1232 = 999%)
+Dynarec: 1500 fragments, 93KB (i:o 133:1337 = 998%)
+Dynarec: 1600 fragments, 100KB (i:o 142:1428 = 1000%)
+Dynarec: 1700 fragments, 106KB (i:o 149:1499 = 1000%)
+Dynarec: 1800 fragments, 112KB (i:o 159:1591 = 1000%)
+Dynarec: 1900 fragments, 118KB (i:o 171:1708 = 998%)
+Dynarec: 2000 fragments, 125KB (i:o 180:1801 = 996%)
+Dynarec: 2100 fragments, 131KB (i:o 191:1914 = 997%)
+Allocated 3MB of storage for dynarec buffer
+Dynarec: 2200 fragments, 137KB (i:o 203:2024 = 993%)
+Write to 80134fe0 (32 bytes) overlaps fragment cache entries
+Write to 80135000 (32 bytes) overlaps fragment cache entries
+Write to 80135020 (32 bytes) overlaps fragment cache entries
+Write to 80135040 (32 bytes) overlaps fragment cache entries
+Write to 80135060 (32 bytes) overlaps fragment cache entries
+Write to 80135080 (32 bytes) overlaps fragment cache entries
+Write to 801350a0 (32 bytes) overlaps fragment cache entries
+Write to 801350c0 (32 bytes) overlaps fragment cache entries
+Write to 801350e0 (32 bytes) overlaps fragment cache entries
+Write to 80135100 (32 bytes) overlaps fragment cache entries
+Write to 80135120 (32 bytes) overlaps fragment cache entries
+Write to 80135140 (32 bytes) overlaps fragment cache entries
+Write to 80135160 (32 bytes) overlaps fragment cache entries
+Write to 80135180 (32 bytes) overlaps fragment cache entries
+Write to 801351a0 (32 bytes) overlaps fragment cache entries
+Write to 801351c0 (32 bytes) overlaps fragment cache entries
+Write to 801351e0 (32 bytes) overlaps fragment cache entries
+Write to 80135200 (32 bytes) overlaps fragment cache entries
+Write to 80135220 (32 bytes) overlaps fragment cache entries
+Write to 80135240 (32 bytes) overlaps fragment cache entries
+Write to 80135260 (32 bytes) overlaps fragment cache entries
+Write to 80135280 (32 bytes) overlaps fragment cache entries
+Write to 801352a0 (32 bytes) overlaps fragment cache entries
+Write to 801352c0 (32 bytes) overlaps fragment cache entries
+Write to 801352e0 (32 bytes) overlaps fragment cache entries
+Write to 80135300 (32 bytes) overlaps fragment cache entries
+Write to 80135320 (32 bytes) overlaps fragment cache entries
+Write to 80135340 (32 bytes) overlaps fragment cache entries
+Write to 80135360 (32 bytes) overlaps fragment cache entries
+Write to 80135380 (32 bytes) overlaps fragment cache entries
+Write to 801353a0 (32 bytes) overlaps fragment cache entries
+Write to 801353c0 (32 bytes) overlaps fragment cache entries
+Write to 801353e0 (32 bytes) overlaps fragment cache entries
+Write to 80135400 (32 bytes) overlaps fragment cache entries
+Write to 80135420 (32 bytes) overlaps fragment cache entries
+Write to 80135440 (32 bytes) overlaps fragment cache entries
+Write to 80135460 (32 bytes) overlaps fragment cache entries
+Write to 80135480 (32 bytes) overlaps fragment cache entries
+Write to 801354a0 (32 bytes) overlaps fragment cache entries
+Write to 801354c0 (32 bytes) overlaps fragment cache entries
+Write to 801354e0 (32 bytes) overlaps fragment cache entries
+Write to 80135500 (32 bytes) overlaps fragment cache entries
+Write to 80135520 (32 bytes) overlaps fragment cache entries
+Write to 80135540 (32 bytes) overlaps fragment cache entries
+Write to 80135560 (32 bytes) overlaps fragment cache entries
+Write to 80135580 (32 bytes) overlaps fragment cache entries
+Write to 801355a0 (32 bytes) overlaps fragment cache entries
+Write to 801355c0 (32 bytes) overlaps fragment cache entries
+Write to 801355e0 (32 bytes) overlaps fragment cache entries
+Write to 80135600 (32 bytes) overlaps fragment cache entries
+Write to 80135620 (32 bytes) overlaps fragment cache entries
+Write to 80135640 (32 bytes) overlaps fragment cache entries
+Write to 80135660 (32 bytes) overlaps fragment cache entries
+Write to 80135680 (32 bytes) overlaps fragment cache entries
+Write to 801356a0 (32 bytes) overlaps fragment cache entries
+Write to 801356c0 (32 bytes) overlaps fragment cache entries
+Write to 801356e0 (32 bytes) overlaps fragment cache entries
+Write to 80135700 (32 bytes) overlaps fragment cache entries
+Write to 80135720 (32 bytes) overlaps fragment cache entries
+Write to 80135740 (32 bytes) overlaps fragment cache entries
+Write to 80135760 (32 bytes) overlaps fragment cache entries
+Write to 80135780 (32 bytes) overlaps fragment cache entries
+Write to 801357a0 (32 bytes) overlaps fragment cache entries
+Write to 801357c0 (32 bytes) overlaps fragment cache entries
+Write to 801357e0 (32 bytes) overlaps fragment cache entries
+Write to 80135800 (32 bytes) overlaps fragment cache entries
+Write to 80135820 (32 bytes) overlaps fragment cache entries
+Write to 80135840 (32 bytes) overlaps fragment cache entries
+Write to 80135860 (32 bytes) overlaps fragment cache entries
+Write to 80135880 (32 bytes) overlaps fragment cache entries
+Write to 801358a0 (32 bytes) overlaps fragment cache entries
+Write to 801358c0 (32 bytes) overlaps fragment cache entries
+Write to 801358e0 (32 bytes) overlaps fragment cache entries
+Write to 80135900 (32 bytes) overlaps fragment cache entries
+Write to 80135920 (32 bytes) overlaps fragment cache entries
+Write to 80135940 (32 bytes) overlaps fragment cache entries
+Write to 80135960 (32 bytes) overlaps fragment cache entries
+Write to 80135980 (32 bytes) overlaps fragment cache entries
+Write to 801359a0 (32 bytes) overlaps fragment cache entries
+Write to 801359c0 (32 bytes) overlaps fragment cache entries
+Write to 801359e0 (32 bytes) overlaps fragment cache entries
+Write to 80135a00 (32 bytes) overlaps fragment cache entries
+Write to 80135a20 (32 bytes) overlaps fragment cache entries
+Write to 80135a40 (32 bytes) overlaps fragment cache entries
+Write to 80135a60 (32 bytes) overlaps fragment cache entries
+Write to 80135a80 (32 bytes) overlaps fragment cache entries
+Write to 80135aa0 (32 bytes) overlaps fragment cache entries
+Write to 80135ac0 (32 bytes) overlaps fragment cache entries
+Write to 80135ae0 (32 bytes) overlaps fragment cache entries
+Write to 80135b00 (32 bytes) overlaps fragment cache entries
+Write to 80135b20 (32 bytes) overlaps fragment cache entries
+Write to 80135b40 (32 bytes) overlaps fragment cache entries
+Write to 80135b60 (32 bytes) overlaps fragment cache entries
+Write to 80135b80 (32 bytes) overlaps fragment cache entries
+Write to 80135ba0 (32 bytes) overlaps fragment cache entries
+Write to 80135bc0 (32 bytes) overlaps fragment cache entries
+Write to 80135be0 (32 bytes) overlaps fragment cache entries
+Write to 80135c00 (32 bytes) overlaps fragment cache entries
+Write to 80135c20 (32 bytes) overlaps fragment cache entries
+Write to 80135c40 (32 bytes) overlaps fragment cache entries
+Write to 80135c60 (32 bytes) overlaps fragment cache entries
+Write to 80135c80 (32 bytes) overlaps fragment cache entries
+Write to 80135ca0 (32 bytes) overlaps fragment cache entries
+Write to 80135cc0 (32 bytes) overlaps fragment cache entries
+Write to 80135ce0 (32 bytes) overlaps fragment cache entries
+Write to 80135d00 (32 bytes) overlaps fragment cache entries
+Write to 80135d20 (32 bytes) overlaps fragment cache entries
+Write to 80135d40 (32 bytes) overlaps fragment cache entries
+Write to 80135d60 (32 bytes) overlaps fragment cache entries
+Write to 80135d80 (32 bytes) overlaps fragment cache entries
+Write to 80135da0 (32 bytes) overlaps fragment cache entries
+Write to 80135dc0 (32 bytes) overlaps fragment cache entries
+Write to 80135de0 (32 bytes) overlaps fragment cache entries
+Write to 80135e00 (32 bytes) overlaps fragment cache entries
+Write to 80135e20 (32 bytes) overlaps fragment cache entries
+Write to 80135e40 (32 bytes) overlaps fragment cache entries
+Write to 80135e60 (32 bytes) overlaps fragment cache entries
+Write to 80135e80 (32 bytes) overlaps fragment cache entries
+Write to 80135ea0 (32 bytes) overlaps fragment cache entries
+Write to 80135ec0 (32 bytes) overlaps fragment cache entries
+Write to 80135ee0 (32 bytes) overlaps fragment cache entries
+Write to 80135f00 (32 bytes) overlaps fragment cache entries
+Write to 80135f20 (32 bytes) overlaps fragment cache entries
+Write to 80135f40 (32 bytes) overlaps fragment cache entries
+Write to 80135f60 (32 bytes) overlaps fragment cache entries
+Write to 80135f80 (32 bytes) overlaps fragment cache entries
+Write to 80135fa0 (32 bytes) overlaps fragment cache entries
+Write to 80135fc0 (32 bytes) overlaps fragment cache entries
+Write to 80135fe0 (32 bytes) overlaps fragment cache entries
+Write to 80136000 (32 bytes) overlaps fragment cache entries
+Write to 80136020 (32 bytes) overlaps fragment cache entries
+Write to 80136040 (32 bytes) overlaps fragment cache entries
+Write to 80136060 (32 bytes) overlaps fragment cache entries
+Write to 80136080 (32 bytes) overlaps fragment cache entries
+Write to 801360a0 (32 bytes) overlaps fragment cache entries
+Write to 801360c0 (32 bytes) overlaps fragment cache entries
+Write to 801360e0 (32 bytes) overlaps fragment cache entries
+Write to 80136100 (32 bytes) overlaps fragment cache entries
+Write to 80136120 (32 bytes) overlaps fragment cache entries
+Write to 80136140 (32 bytes) overlaps fragment cache entries
+Write to 80136160 (32 bytes) overlaps fragment cache entries
+Write to 80136180 (32 bytes) overlaps fragment cache entries
+Write to 801361a0 (32 bytes) overlaps fragment cache entries
+Write to 801361c0 (32 bytes) overlaps fragment cache entries
+Write to 801361e0 (32 bytes) overlaps fragment cache entries
+Write to 80136200 (32 bytes) overlaps fragment cache entries
+Write to 80136220 (32 bytes) overlaps fragment cache entries
+Write to 80136240 (32 bytes) overlaps fragment cache entries
+Write to 80136260 (32 bytes) overlaps fragment cache entries
+Write to 80136280 (32 bytes) overlaps fragment cache entries
+Write to 801362a0 (32 bytes) overlaps fragment cache entries
+Write to 801362c0 (32 bytes) overlaps fragment cache entries
+Write to 801362e0 (32 bytes) overlaps fragment cache entries
+Write to 80136300 (32 bytes) overlaps fragment cache entries
+Write to 80136320 (32 bytes) overlaps fragment cache entries
+Write to 80136340 (32 bytes) overlaps fragment cache entries
+Write to 80136360 (32 bytes) overlaps fragment cache entries
+Write to 80136380 (32 bytes) overlaps fragment cache entries
+Write to 801363a0 (32 bytes) overlaps fragment cache entries
+Write to 801363c0 (32 bytes) overlaps fragment cache entries
+Write to 801363e0 (32 bytes) overlaps fragment cache entries
+Write to 80136400 (32 bytes) overlaps fragment cache entries
+Write to 80136420 (32 bytes) overlaps fragment cache entries
+Write to 80136440 (32 bytes) overlaps fragment cache entries
+Write to 80136460 (32 bytes) overlaps fragment cache entries
+Write to 80136480 (32 bytes) overlaps fragment cache entries
+Write to 801364a0 (32 bytes) overlaps fragment cache entries
+Write to 801364c0 (32 bytes) overlaps fragment cache entries
+Write to 801364e0 (32 bytes) overlaps fragment cache entries
+Write to 80136500 (32 bytes) overlaps fragment cache entries
+Write to 80136520 (32 bytes) overlaps fragment cache entries
+Write to 80136540 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 2228 fragments
+PI DMA odd length
+Dynarec: 100 fragments, 6KB (i:o 7:80 = 1046%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 200 fragments, 12KB (i:o 13:145 = 1081%)
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+PI DMA odd length
+Dynarec: 300 fragments, 18KB (i:o 21:229 = 1080%)
+Dynarec: 400 fragments, 25KB (i:o 30:323 = 1061%)
+Dynarec: 500 fragments, 31KB (i:o 37:399 = 1063%)
+Write to 80134680 (32 bytes) overlaps fragment cache entries
+Write to 801346a0 (32 bytes) overlaps fragment cache entries
+Write to 801346c0 (32 bytes) overlaps fragment cache entries
+Write to 801346e0 (32 bytes) overlaps fragment cache entries
+Write to 80134700 (32 bytes) overlaps fragment cache entries
+Write to 80134720 (32 bytes) overlaps fragment cache entries
+Write to 80134740 (32 bytes) overlaps fragment cache entries
+Write to 80134760 (32 bytes) overlaps fragment cache entries
+Write to 80134780 (32 bytes) overlaps fragment cache entries
+Write to 801347a0 (32 bytes) overlaps fragment cache entries
+Write to 801347c0 (32 bytes) overlaps fragment cache entries
+Write to 801347e0 (32 bytes) overlaps fragment cache entries
+Write to 80134800 (32 bytes) overlaps fragment cache entries
+Write to 80134820 (32 bytes) overlaps fragment cache entries
+Write to 80134840 (32 bytes) overlaps fragment cache entries
+Write to 80134860 (32 bytes) overlaps fragment cache entries
+Write to 80134880 (32 bytes) overlaps fragment cache entries
+Write to 801348a0 (32 bytes) overlaps fragment cache entries
+Write to 801348c0 (32 bytes) overlaps fragment cache entries
+Write to 801348e0 (32 bytes) overlaps fragment cache entries
+Write to 80134900 (32 bytes) overlaps fragment cache entries
+Write to 80134920 (32 bytes) overlaps fragment cache entries
+Write to 80134940 (32 bytes) overlaps fragment cache entries
+Write to 80134960 (32 bytes) overlaps fragment cache entries
+Write to 80134980 (32 bytes) overlaps fragment cache entries
+Write to 801349a0 (32 bytes) overlaps fragment cache entries
+Write to 801349c0 (32 bytes) overlaps fragment cache entries
+Write to 801349e0 (32 bytes) overlaps fragment cache entries
+Write to 80134a00 (32 bytes) overlaps fragment cache entries
+Write to 80134a20 (32 bytes) overlaps fragment cache entries
+Write to 80134a40 (32 bytes) overlaps fragment cache entries
+Write to 80134a60 (32 bytes) overlaps fragment cache entries
+Write to 80134a80 (32 bytes) overlaps fragment cache entries
+Write to 80134aa0 (32 bytes) overlaps fragment cache entries
+Write to 80134ac0 (32 bytes) overlaps fragment cache entries
+Write to 80134ae0 (32 bytes) overlaps fragment cache entries
+Write to 80134b00 (32 bytes) overlaps fragment cache entries
+Write to 80134b20 (32 bytes) overlaps fragment cache entries
+Write to 80134b40 (32 bytes) overlaps fragment cache entries
+Write to 80134b60 (32 bytes) overlaps fragment cache entries
+Write to 80134b80 (32 bytes) overlaps fragment cache entries
+Write to 80134ba0 (32 bytes) overlaps fragment cache entries
+Write to 80134bc0 (32 bytes) overlaps fragment cache entries
+Write to 80134be0 (32 bytes) overlaps fragment cache entries
+Write to 80134c00 (32 b

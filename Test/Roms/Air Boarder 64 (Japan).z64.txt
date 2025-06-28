@@ -1,0 +1,189 @@
+==>Initialized DebugConsole
+Path set for:"rom.db"to:"/home/ben/daedalus/DaedalusX64/rom.db"
+RomDB initialised with 0 files and 0 details.
+==>Initialized ROM Database
+Path set for:"roms.ini"to:"/home/ben/daedalus/DaedalusX64/roms.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/roms.ini"
+==>Initialized ROM Settings
+==>Initialized InputManager
+==>Initialized Language
+Path set for:"n64.psh"to:"/home/ben/daedalus/DaedalusX64/n64.psh"
+==>Initialized GraphicsContext
+Path set for:"Preferences.ini"to:"/home/ben/daedalus/DaedalusX64/Preferences.ini"
+Loading INI File: "/home/ben/daedalus/DaedalusX64/Preferences.ini"
+==>Initialized Preference
+Initialising 8Mb main memory
+==>Initialized Memory
+==>Initialized Controller
+==>Initialized RomBuffer
+==>Open RomBuffer
+Allocating Memory
+Opened [1;36mRoms/Air Boarder 64 (Japan).z64[0m
+
+==>Open Settings
+Reading rom image: [1;36mRoms/Air Boarder 64 (Japan).z64[0m
+ROM ID[4241]
+Header:          0x80371240
+Clockrate:       0x0f000000
+BootAddr:        0x80025c00
+Release:         0x48140000
+CRC1:            0x0cb6456c
+CRC2:            0x300ee5dc
+Unknown0:        0x00000000
+Unknown1:        0x00000000
+ImageName:       '´±°ÎÞ°ÀÞ°64         '
+Unknown2:        0x00000000
+Unknown3:        0x0000
+Unknown4:        0x00
+Manufacturer:    0x4e
+CartID:          0x4241
+CountryID:       0x4a - 'J'
+Unknown5:        0x00
+[1;32mAirboarder 64[0m
+This game has been certified as [1;32m[0m ()
+SaveType: [1;32mEeprom4k[0m
+ApplyPatches: [1;32mon[0m
+Check Texture Hash Freq: [1;32m1[0m
+SpeedSync: [1;32m1[0m
+DynaRec: [1;32mon[0m
+Cheats: [1;32moff[0m
+==>Open InputManager
+==>Open Memory
+Reseting Memory - 8 MB
+Initialising 8Mb main memory
+==>Open Audio
+==>Open Graphics
+Initialising Graphics Plugin [1;36mGL[0m
+==>Open FramerateLimiter
+==>Open CPU
+Resetting CPU
+Clearing fragment cache of 0 fragments
+==>Open ROM
+[1;35mRom uses CIC-6102[0m
+==>Open Controller
+Initialising EEPROM to [1;35m512[0m bytes
+==>Open Save
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+Save File [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Air Boarder 64 (Japan).sav[0m cannot be found.
+Directory :"/home/ben/daedalus/DaedalusX64/SaveGames"CreatedPath set for:"SaveGames"to:"/home/ben/daedalus/DaedalusX64/SaveGames"
+MemPack File [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Air Boarder 64 (Japan).mpk[0m cannot be found.
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+size of gMempak Initalise: 272
+[1;35mWas previously clobbering CAUSE REGISTER[0m
+Count set - setting int
+Allocated 1MB of storage for dynarec buffer
+Allocated 1MB of storage for dynarec second buffer
+Saving MemPack to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Air Boarder 64 (Japan).mpk[0m
+File opened successfully.
+Writing 131072 bytes to the file.
+Controller found
+[1;32mSI Interrupt control value: 0x08[0m
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 11 fragments
+Detected Ucode is: [1;35m Ucode 1, 0xbd439b2b, "RSP Gfx ucode F3DLX         1.21 Yoshitaka Yasumoto Nintendo.", "Airboarder 64"[0m
+Thread accessing Cop1, throwing COP1 unusuable exception
+Dynarec: 100 fragments, 6KB (i:o 5:63 = 1167%)
+Thread accessing Cop1, throwing COP1 unusuable exception
+Audio device not initialized
+Dynarec: 200 fragments, 12KB (i:o 12:142 = 1127%)
+Dynarec: 300 fragments, 18KB (i:o 18:209 = 1144%)
+Dynarec: 400 fragments, 25KB (i:o 23:267 = 1140%)
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Saving to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Air Boarder 64 (Japan).sav[0m
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Save Mark Dirty called
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 492 fragments
+Cache coverage address is overlapping
+Write to 80000000 (32 bytes) overlaps fragment cache entries
+Clearing fragment cache of 4 fragments
+Dynarec: 100 fragments, 6KB (i:o 7:85 = 1088%)
+Dynarec: 200 fragments, 12KB (i:o 13:152 = 1095%)
+Dynarec: 300 fragments, 18KB (i:o 19:213 = 1118%)
+Saving to [1;36m/home/ben/daedalus/DaedalusX64/SaveGames/Air Boarder 64 (Japan).sav[0m
+Thread accessing Cop1, throwing COP1 unusuable exception
+Dynarec: 400 fragments, 25KB (i:o 29:305 = 1019%)
+Detected Ucode is: [1;35m Ucode 1, 0xfa9d3fd9, "RSP Gfx ucode F3DLX.Rej     1.21 Yoshitaka Yasumoto Nintendo.", "Airboarder 64"[0m
+Dynarec: 500 fragments, 31KB (i:o 40:396 = 979%)
+Dynarec: 600 fragments, 37KB (i:o 51:492 = 965%)
+Dynarec: 700 fragments, 43KB (i:o 61:587 = 963%)
+Dynarec: 800 fragments, 50KB (i:o 67:658 = 968%)
+Dynarec: 900 fragments, 56KB (i:o 79:766 = 959%)
+Dynarec: 1000 fragments, 62KB (i:o 91:873 = 955%)
+Allocated 2MB of storage for dynarec buffer
+Dynarec: 1100 fragments, 68KB (i:o 104:984 = 945%)
+Dynarec: 1200 fragments, 75KB (i:o 125:1171 = 933%)
+Dynarec: 1300 fragments, 81KB (i:o 140:1301 = 928%)
+Dynarec: 1400 fragments, 87KB (i:o 155:1430 = 919%)
+Dynarec: 1500 fragments, 93KB (i:o 169:1552 = 916%)
+Dynarec: 1600 fragments, 100KB (i:o 187:1706 = 908%)
+Controller found
+Dynarec: 1700 fragments, 106KB (i:o 200:1820 = 907%)
+Dynarec: 1800 fragments, 112KB (i:o 211:1919 = 907%)
+Controller found
